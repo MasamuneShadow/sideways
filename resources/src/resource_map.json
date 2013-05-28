@@ -1,162 +1,161 @@
 {
-    "friendlyVersion": "1.0",
-    "versionDefName": "APP_RESOURCES",
     "media": [
         {
-            "type":"png",
-            "defName":"IMAGE_MENU_ICON",
-            "file":"images/menu_icon_sideways.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_BIG_0",
-        "file": "images/big_0.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_BIG_1",
-        "file": "images/big_1.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_BIG_2",
-        "file": "images/big_2.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_BIG_3",
-        "file": "images/big_3.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_BIG_4",
-        "file": "images/big_4.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_BIG_5",
-        "file": "images/big_5.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_BIG_6",
-        "file": "images/big_6.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_BIG_7",
-        "file": "images/big_7.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_BIG_8",
-        "file": "images/big_8.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_BIG_9",
-        "file": "images/big_9.png"
-        },
-        
-        {
-        "type": "png",
-        "defName": "IMAGE_MED_0",
-        "file": "images/med_0.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_MED_1",
-        "file": "images/med_1.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_MED_2",
-        "file": "images/med_2.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_MED_3",
-        "file": "images/med_3.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_MED_4",
-        "file": "images/med_4.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_MED_5",
-        "file": "images/med_5.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_MED_6",
-        "file": "images/med_6.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_MED_7",
-        "file": "images/med_7.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_MED_8",
-        "file": "images/med_8.png"
-        },
-    	{
-        "type": "png",
-        "defName": "IMAGE_MED_9",
-        "file": "images/med_9.png"
-        },
-	{
-        "type": "png",
-        "defName": "IMAGE_SLASH",
-        "file": "images/slash.png"
-        },
-	{
-        "type": "png",
-        "defName": "IMAGE_COLON",
-        "file": "images/colon.png"
-        },
-	{
-        "type": "png",
-        "defName": "IMAGE_LINE",
-        "file": "images/line.png"
+            "defName": "IMAGE_DAY_6",
+            "type": "png",
+            "file": "images/day_6.png"
         },
         {
-        "type": "png",
-        "defName": "IMAGE_DAY_0",
-        "file": "images/day_0.png"
+            "defName": "IMAGE_DAY_5",
+            "type": "png",
+            "file": "images/day_5.png"
         },
-	{
-        "type": "png",
-        "defName": "IMAGE_DAY_1",
-        "file": "images/day_1.png"
+        {
+            "defName": "IMAGE_DAY_4",
+            "type": "png",
+            "file": "images/day_4.png"
         },
-	{
-        "type": "png",
-        "defName": "IMAGE_DAY_2",
-        "file": "images/day_2.png"
+        {
+            "defName": "IMAGE_DAY_3",
+            "type": "png",
+            "file": "images/day_3.png"
         },
-	{
-        "type": "png",
-        "defName": "IMAGE_DAY_3",
-        "file": "images/day_3.png"
+        {
+            "defName": "IMAGE_DAY_2",
+            "type": "png",
+            "file": "images/day_2.png"
         },
-	{
-        "type": "png",
-        "defName": "IMAGE_DAY_4",
-        "file": "images/day_4.png"
+        {
+            "defName": "IMAGE_DAY_1",
+            "type": "png",
+            "file": "images/day_1.png"
         },
-	{
-        "type": "png",
-        "defName": "IMAGE_DAY_5",
-        "file": "images/day_5.png"
+        {
+            "defName": "IMAGE_DAY_0",
+            "type": "png",
+            "file": "images/day_0.png"
         },
-	{
-        "type": "png",
-        "defName": "IMAGE_DAY_6",
-        "file": "images/day_6.png"
+        {
+            "defName": "IMAGE_LINE",
+            "type": "png",
+            "file": "images/line.png"
+        },
+        {
+            "defName": "IMAGE_COLON",
+            "type": "png",
+            "file": "images/colon.png"
+        },
+        {
+            "defName": "IMAGE_SLASH",
+            "type": "png",
+            "file": "images/slash.png"
+        },
+        {
+            "defName": "IMAGE_MED_9",
+            "type": "png",
+            "file": "images/med_9.png"
+        },
+        {
+            "defName": "IMAGE_MED_8",
+            "type": "png",
+            "file": "images/med_8.png"
+        },
+        {
+            "defName": "IMAGE_MED_7",
+            "type": "png",
+            "file": "images/med_7.png"
+        },
+        {
+            "defName": "IMAGE_MED_6",
+            "type": "png",
+            "file": "images/med_6.png"
+        },
+        {
+            "defName": "IMAGE_MED_5",
+            "type": "png",
+            "file": "images/med_5.png"
+        },
+        {
+            "defName": "IMAGE_MED_4",
+            "type": "png",
+            "file": "images/med_4.png"
+        },
+        {
+            "defName": "IMAGE_MED_3",
+            "type": "png",
+            "file": "images/med_3.png"
+        },
+        {
+            "defName": "IMAGE_MED_2",
+            "type": "png",
+            "file": "images/med_2.png"
+        },
+        {
+            "defName": "IMAGE_MED_1",
+            "type": "png",
+            "file": "images/med_1.png"
+        },
+        {
+            "defName": "IMAGE_MED_0",
+            "type": "png",
+            "file": "images/med_0.png"
+        },
+        {
+            "defName": "IMAGE_BIG_9",
+            "type": "png",
+            "file": "images/big_9.png"
+        },
+        {
+            "defName": "IMAGE_BIG_8",
+            "type": "png",
+            "file": "images/big_8.png"
+        },
+        {
+            "defName": "IMAGE_BIG_7",
+            "type": "png",
+            "file": "images/big_7.png"
+        },
+        {
+            "defName": "IMAGE_BIG_6",
+            "type": "png",
+            "file": "images/big_6.png"
+        },
+        {
+            "defName": "IMAGE_BIG_5",
+            "type": "png",
+            "file": "images/big_5.png"
+        },
+        {
+            "defName": "IMAGE_BIG_4",
+            "type": "png",
+            "file": "images/big_4.png"
+        },
+        {
+            "defName": "IMAGE_BIG_3",
+            "type": "png",
+            "file": "images/big_3.png"
+        },
+        {
+            "defName": "IMAGE_BIG_2",
+            "type": "png",
+            "file": "images/big_2.png"
+        },
+        {
+            "defName": "IMAGE_BIG_1",
+            "type": "png",
+            "file": "images/big_1.png"
+        },
+        {
+            "defName": "IMAGE_BIG_0",
+            "type": "png",
+            "file": "images/big_0.png"
+        },
+        {
+            "defName": "IMAGE_MENU_ICON",
+            "type": "png",
+            "file": "images/menu_icon_sideways.png"
         }
-    ]
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
 }
